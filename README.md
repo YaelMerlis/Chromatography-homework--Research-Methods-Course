@@ -14,25 +14,25 @@ Mass spectrometry data were uploaded and analyzed using the GNPS (Global Natural
 
 ## Results
 
-### Figure 1: Molecular Network Visualization (Dioctyl Family)
+### Molecular Network Visualization (Dioctyl Family)
 
 ![image](https://github.com/user-attachments/assets/7ae326fc-9270-41da-b772-e39f7e02b457)
 
 Figure 1: Molecular network visualization including Dioctyl (Cluster Index: 1700, precursor mass: 467.205). Each node represents a unique MS/MS spectrum, and edges represent spectral similarity with annotated neutral mass differences. This network reveals structurally related compounds within the Dioctyl molecular family.
 
-### Figure 2: Spectral Data for Dioctyl (Cluster Index: 1700)
+### Spectral Data for Dioctyl (Cluster Index: 1700)
 
 <img width="595" alt="image" src="https://github.com/user-attachments/assets/a93b5080-860c-4ec1-8dac-0ec6e1a8183f" />
 
 Figure 2: MS/MS fragmentation spectrum of Dioctyl, identified at cluster index 1700 with a precursor mass of 467.205. The spectrum shows characteristic peaks corresponding to its relatively simple aliphatic structure.
 
-### Figure 3: Molecular Subnetwork for Cyclosporine Family
+### Molecular Subnetwork for Cyclosporine Family
 
 ![image](https://github.com/user-attachments/assets/2f744070-f9a6-4eb2-a662-1b81268e7a75)
 
 Figure 3: Molecular network visualization including Cyclosporine A (Cluster Index: 2081, precursor mass: 1202.85). Each node represents a unique MS/MS spectrum, and edges represent spectral similarity with annotated neutral mass differences. This network reveals structurally related compounds within the Cyclosporine molecular family
 
-### Figure 4: Spectral Data for Cyclosporine A (Cluster Index: 2081)
+### Spectral Data for Cyclosporine A (Cluster Index: 2081)
 
 <img width="594" alt="image" src="https://github.com/user-attachments/assets/6d9c7600-d1a7-4277-abc0-a880c90b1370" />
 
