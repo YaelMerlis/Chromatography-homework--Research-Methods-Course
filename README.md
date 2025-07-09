@@ -21,7 +21,7 @@ Figure 1: Molecular network visualization including Dioctyl (Cluster Index: 1700
 
 ### Figure 2: Spectral Data for Dioctyl (Cluster Index: 1700)
 
-[![Figure 2](URL_TO_IMAGE_2)  ](https://files09.oaiusercontent.com/file-W1ig8eVsrF6r3xZfDTunJQ?se=2025-07-09T19%3A29%3A12Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4f0bece4-4c48-4ce2-8300-8aaef288694d.png&sig=uE%2B9kgVXODVdlYgmwFF06Y9wLA9s7MGtyYMvWGNQI9I%3D)
+![image](https://files09.oaiusercontent.com/file-W1ig8eVsrF6r3xZfDTunJQ?se=2025-07-09T19%3A29%3A12Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4f0bece4-4c48-4ce2-8300-8aaef288694d.png&sig=uE%2B9kgVXODVdlYgmwFF06Y9wLA9s7MGtyYMvWGNQI9I%3D)
 Figure 2: MS/MS fragmentation spectrum of Dioctyl, identified at cluster index 1700 with a precursor mass of 467.205. The spectrum shows characteristic peaks corresponding to its relatively simple aliphatic structure.
 
 ### Figure 3: Molecular Subnetwork for Cyclosporine Family
